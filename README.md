@@ -1,7 +1,7 @@
 ﻿# Basic DNS Setup Project
 
 This project was about learning and practicing the basics of DNS by setting up a custom domain with **Namecheap** and connecting it to **GitHub Pages**.
-
+Project link : https://roadmap.sh/projects/basic-dns
 ---
 
 ## 🔹 Steps I Followed
@@ -56,4 +56,5 @@ Here are the screenshots of my setup:
 - How DNS records (A, CNAME, TXT) work.
 - How to connect a domain to GitHub Pages.
 - How to enable HTTPS for a secure site.
+
 
