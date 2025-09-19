@@ -39,16 +39,16 @@ This project was about learning and practicing the basics of DNS by setting up a
 Here are the screenshots of my setup:
 
 - Domain purchase  
-  ![Domain Purchase](screenshot1.png)
+  ![Domain Purchase](domain.png)
 
 - Advanced DNS setup  
-  ![Advanced DNS](screenshot2.png)
+  ![Advanced DNS](AdvanceDNS.png)
 
 - GitHub TXT verification  
-  ![TXT Record](screenshot3.png)
+  ![TXT Record](Git TXT verification.png)
 
 - GitHub Pages custom domain setup  
-  ![GitHub Pages](screenshot4.png)
+  ![GitHub Pages](custom Domain Setup.png)
 
 ---
 
@@ -56,3 +56,4 @@ Here are the screenshots of my setup:
 - How DNS records (A, CNAME, TXT) work.
 - How to connect a domain to GitHub Pages.
 - How to enable HTTPS for a secure site.
+
